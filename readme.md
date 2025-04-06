@@ -18,6 +18,11 @@ where python
 
 # fast api 
 pip install "fastapi[standard]"
+pip install "uvicorn[standard]"
+
+# to run the fastapi server
+fastapi dev main.py
+uvicorn main:app --reload
 
 
 The command pip install "fastapi[standard]" installs FastAPI along with additional optional dependencies that are commonly used in FastAPI projects. These additional dependencies include packages for features like data validation, serialization, and asynchronous support.  Here is a brief explanation of what happens when you run this command:  
