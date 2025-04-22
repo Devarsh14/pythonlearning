@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/project10fastapi/.idea/project10fastapi.iml" filepath="$PROJECT_DIR$/project10fastapi/.idea/project10fastapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project12Pandas/.idea/project12Pandas.iml" filepath="$PROJECT_DIR$/project12Pandas/.idea/project12Pandas.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pythonlearning.iml" filepath="$PROJECT_DIR$/.idea/pythonlearning.iml" />
     </modules>
   </component>

@@ -32,3 +32,6 @@ By installing fastapi[standard], you ensure that you have all the necessary tool
 
 
 # create separate env for fast api & other projects. Remove root virtual env
+
+
+pip install -r requirements.txt
